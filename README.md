@@ -1,7 +1,5 @@
 Pedagogické portfolio <br>
-Magisterské studium <br>
-Bc. Lucie Bryndová (D41758) <br>
-Katedra technické a informační výchovy <br>
+Bakalářské studium <br>
+David Prokopec  (D24724) <br>
+Obor: AJmaj / INFmin, Kombinovaná
 Pedagogická fakulta, UPOL
-
-__Zde budou vaše vlastní údaje__
